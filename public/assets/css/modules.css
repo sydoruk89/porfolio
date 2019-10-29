@@ -1984,10 +1984,6 @@ button,
     #main > section.one {
       background-color: #81918E;
       background-image: linear-gradient(rgba(0, 0, 0, 0.13), rgba(0, 0, 0, 0.623)), url("../../images/banner-laptop.jpg");
-      height: 100vh;
-      background-size: cover;
-      background-position: center;
-
     }
 
     #main > section.two {
@@ -2219,6 +2215,9 @@ button,
 
   #main > section.one {
     background-image: linear-gradient(rgba(0, 0, 0, 0.13), rgba(0, 0, 0, 0.623)), url("../../images/banner-laptop-small.jpg");
+    max-height: 100%;
+    background-size: cover;
+    background-position: center;
   }
 
     input, textarea, select {
