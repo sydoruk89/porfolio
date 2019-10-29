@@ -10,7 +10,7 @@ a {
 }
 
   a:hover {
-    color: #289df6;
+    color: #1edab5;
     border-bottom-color: rgba(255, 255, 255, 0);
   }
 
@@ -19,7 +19,7 @@ input[type="button"]:hover,
   input[type="reset"]:hover,
   button:hover,
   .button:hover {
-    background-color: #289df6;
+    background-color: #1edab5;
   }
 
   input[type="button"]:active,
@@ -27,7 +27,7 @@ input[type="button"]:hover,
   input[type="reset"]:active,
   button:active,
   .button:active {
-    background-color: #289df6;
+    background-color: #1edab5;
   }
 
   #main > section.dark a:hover {
